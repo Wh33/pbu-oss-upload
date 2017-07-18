@@ -1,0 +1,23 @@
+{
+  "name": "pbu-oss-upload",
+  "version": "1.0.0",
+  "description": "aliyun oss upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seentaoInternetOrganization/pbu-oss-upload.git"
+  },
+  "keywords": [
+    "oss",
+    "upload"
+  ],
+  "author": "angusc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seentaoInternetOrganization/pbu-oss-upload/issues"
+  },
+  "homepage": "https://github.com/seentaoInternetOrganization/pbu-oss-upload#readme"
+}
