@@ -73,7 +73,7 @@ module.exports.getUploadParams = function(aliyunConfig) {
         const signature = hmac.digest('base64');
 
         const response = {
-            code: 0,
+            code: 200,
             msg: '',
             tokenParams: {
                 OSSAccessKeyId: accessKeyId,
